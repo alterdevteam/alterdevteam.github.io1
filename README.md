@@ -1,3 +1,8 @@
+---
+layout: page
+title: test
+---
+
 ## Introduction
 
 Alter is a Trezor alternative, powered by a recently awarded “Digital Public Goods Alliance” by UNICEF, Fedora Linux 35 (an open source operating sys-
